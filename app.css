@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Nerko+One&display=swap');
+nav {
+    height: 50px; background-color: white; margin-top: 15px; margin-bottom: 15px; margin-left: 200px; margin-right: 200px;
+}
+
+nav ul {
+    float: right;  
+}
+
+nav ul li {
+    font-family: 'Barlow', sans-serif;
+    display: inline-block;
+    list-style: none;
+    padding-left: 15px;
+}
+
+
+nav ul li a {
+    text-decoration: none;
+    color: gray;
+    text-transform: uppercase;
+    outline: 2px;
+    font-size:x-small;
+    background-color: white;
+    padding-right: 25px;
+    border: 0px;
+}
+
+nav ul li p {
+    color: #979798;
+    text-transform: uppercase;
+    outline: 2px;
+    font-size:x-small;
+    background-color: transparent;
+    border: 2px solid #979798;
+}
+
+.body1 {
+    background-color: #2d2740;
+    height: 500px;
+}
+
+.body1 button {
+    color: white;
+    text-transform: uppercase;
+    outline: 2px;
+    font-size:x-small;
+    font-weight: bold;
+    background-color: #2d2740;
+    border: 1px;
+    border-color: black;
+}
+
+.body2 {
+    background-color: white
+}
+
+.body1 h1 {
+    font-family: 'Floran heavy', serif;
+    color: #fefefd;
+    margin-left: 200px;
+    font-size: 65px;
+    line-height: 10px;
+}
+
+.body1 p{
+    color: #fefefd;
+    margin-left: 200px;
+    font-family: arial;
+    font-family: 'Gilroy', sans-serif;
+    line-height: 5px;
+}
+
+.body3 h1 {
+    font-family: 'Juana Semi Bold', serif;
+    color: #2a282e;
+    margin-left: 200px;
+    font-size: 60px;
+    line-height: 10px;
+}
+
+.body4 h1 {
+    font-family: 'Floran heavy', serif;
+    color: #2b2a2f;
+    font-size: 20px;
+    line-height: 10px;
+    font-weight: bold;
+}
+
+.body4 p {
+    font-family: 'Montserrat', sans-serif;
+    color: #68666a;
+    font-size: 13px;
+}
+
+.body5 h1 {
+    font-family: 'Juana Semi Bold', serif;
+    color: #fefefd;
+    font-size: 50px;
+    text-align: left;
+    padding-left: 60px;
+    padding-top: 70px;
+    line-height: 2px;
+}
+
+.body5 p {
+    font-family: 'Juana Semi Bold', serif;
+    color: #fefefd;
+    font-size: 50px;
+    text-align: left;
+    line-height: 2px;
+    padding-left: 60px;
+    font-weight: bold;
+}
+
+.body7 h1 {
+    font-family: 'Montserrat', serif;
+    color: #bbb8bd;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.body7 h2 {
+    font-family: 'Montserrat', san-serif;
+    color: black;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
