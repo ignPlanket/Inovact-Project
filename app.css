@@ -26,13 +26,13 @@ nav ul li a {
     border: 0px;
 }
 
-nav ul li p {
+nav ul li button {
     color: #979798;
     text-transform: uppercase;
     outline: 2px;
     font-size:x-small;
     background-color: transparent;
-    border: 2px solid #979798;
+    border: 1px solid #979798;
 }
 
 .body1 {
@@ -45,10 +45,9 @@ nav ul li p {
     text-transform: uppercase;
     outline: 2px;
     font-size:x-small;
-    font-weight: bold;
-    background-color: #2d2740;
-    border: 1px;
-    border-color: black;
+    background-color: transparent;
+    border: 1px solid white;
+    margin-left: 200px;
 }
 
 .body2 {
@@ -113,6 +112,16 @@ nav ul li p {
     line-height: 2px;
     padding-left: 60px;
     font-weight: bold;
+}
+
+.body5 button {
+        color: white;
+        text-transform: uppercase;
+        outline: 2px;
+        font-size:small;
+        background-color: transparent;
+        border: 1px solid white;
+        margin-left: 200px;
 }
 
 .body7 h1 {
